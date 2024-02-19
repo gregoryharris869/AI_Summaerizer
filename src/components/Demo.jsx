@@ -132,7 +132,7 @@ const Demo = () => {
                 Article <span className="blue_gradient">Summary</span>
               </h2>
               <div className="summary_box">
-                <p className="text-sm font-medium text-gray-700 font-inter">
+                <p className="font-medium text-justify text-gray-700  font-inter">
                   {article.summary}
                 </p>
               </div>
